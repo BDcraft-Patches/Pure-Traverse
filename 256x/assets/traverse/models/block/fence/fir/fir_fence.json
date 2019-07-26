@@ -3,7 +3,7 @@
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"texture": "block/fence/fir"
+		"texture": "block/fir_fence"
 	},
 	"elements": [ 	 
 		{
